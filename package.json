@@ -1,0 +1,26 @@
+{
+  "name": "tbs_auth_token_generator_saferio_demo",
+  "version": "1.0.0",
+  "description": "To generate Auth token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saferio-span/tbs-auth-token-saferio.git"
+  },
+  "keywords": [
+    "Auth"
+  ],
+  "author": "Saferio-Span",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saferio-span/tbs-auth-token-saferio/issues"
+  },
+  "homepage": "https://github.com/saferio-span/tbs-auth-token-saferio#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
