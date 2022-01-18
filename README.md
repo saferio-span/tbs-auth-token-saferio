@@ -29,7 +29,7 @@ Let `details` be the object derived on successful execution, We can utilize it b
 ```
 headers: 
 {
-	Authorization: `Bearer ${accessToken}`	
+	Authorization: `Bearer ${details.accessToken}`	
 },
 ```
 > Example
