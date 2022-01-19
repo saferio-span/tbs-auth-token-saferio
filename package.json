@@ -1,6 +1,6 @@
 {
   "name": "tbs_auth_token_generator_saferio_demo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To generate Auth token",
   "main": "index.js",
   "scripts": {
